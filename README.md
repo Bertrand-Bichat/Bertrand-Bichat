@@ -3,9 +3,12 @@
 💎 Ruby on Rails full stack developer since 2020
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Bertrand-Bichat&theme=dark)
+
 ![GitHub Podium](https://github-readme-streak-stats.herokuapp.com/?user=Bertrand-Bichat&theme=dark)
+
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bertrand-Bichat&show_icons=true&locale=en&layout=compact&theme=dark)
-![GitHub Trphies](https://github.com/ryo-ma/github-profile-trophy&theme=dark)
+
+![GitHub Trphies](https://github-profile-trophy.vercel.app/?username=Bertrand-Bichat&theme=dark)
 
 ## 🌐 Languages ​​and Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
