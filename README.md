@@ -2,7 +2,7 @@
 
 💎 Ruby on Rails full stack developer since 2020
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Bertrand-Bichat&theme=dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Bertrand-Bichat&theme=dark)
 
 
 ## 🌐 Languages ​​and Frameworks
@@ -37,9 +37,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![CleverCloud](https://img.shields.io/badge/Clever_Cloud-4E5E95?style=for-the-badge&logo=clever-cloud&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![NameCheap](https://img.shields.io/badge/NameCheap-DE5726?style=for-the-badge&logo=namecheap&logoColor=white)
 
 ## 📈 Monitoring
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![AppSignal](https://img.shields.io/badge/AppSignal-E30064?style=for-the-badge&logo=appsignal&logoColor=white)
 
 ## ✅ Tests
 ![Minitest](https://img.shields.io/badge/Minitest-FFCA28?style=for-the-badge&logo=ruby&logoColor=white)
@@ -48,8 +50,11 @@
 ## 💳 Tools
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Postmark](https://img.shields.io/badge/Postmark-FFCC2F?style=for-the-badge&logo=postmark&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
-## IDE and code
+
+## IDE, linter and code
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-5C5CFF?style=for-the-badge&logo=github&logoColor=white)
 ![Rubocop](https://img.shields.io/badge/Rubocop-CC0000?style=for-the-badge&logo=rubygems&logoColor=white)
@@ -62,15 +67,18 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Security
-![RGPD](https://img.shields.io/badge/RGPD-00AEEF?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![GDPR](https://img.shields.io/badge/RGPD-00AEEF?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![SSO](https://img.shields.io/badge/SSO-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Devise](https://img.shields.io/badge/Devise-4B275F?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Pundit](https://img.shields.io/badge/Pundit-0078D7?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+## Translations
+![i18n](https://img.shields.io/badge/i18n-007ACC?style=for-the-badge&logo=translate&logoColor=white)
 
 ## Others
 ![SEO](https://img.shields.io/badge/SEO-326CE5?style=for-the-badge&logo=google&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![GreenIT](https://img.shields.io/badge/Green%20IT-78BE20?style=for-the-badge&logo=leaf&logoColor=white)
-![Accessibilité](https://img.shields.io/badge/Accessibilité-0052CC?style=for-the-badge&logo=accessible-icon&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibilité-0052CC?style=for-the-badge&logo=accessible-icon&logoColor=white)
 ![Agility](https://img.shields.io/badge/Agility-FF5733?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Fluent in English](https://img.shields.io/badge/Fluent%20in%20English-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white)
