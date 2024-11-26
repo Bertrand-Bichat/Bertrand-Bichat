@@ -11,9 +11,9 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bertrand-Bichat&theme=dark)
 
 ## Where to find me
-![LinkedIn](https://www.linkedin.com/in/bertrand-bichat/?locale=en_US)
+[LinkedIn](https://www.linkedin.com/in/bertrand-bichat/?locale=en_US)
 
-![Portfolio](https://bertrand-bichat.github.io/)
+[Portfolio](https://bertrand-bichat.github.io/)
 
 ## 🌐 Languages ​​and Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
