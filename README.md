@@ -9,14 +9,14 @@
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Bertrand-Bichat&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bertrand-Bichat&theme=dark)
-
-
+<br />
+<br />
 ## Where to find me
 [LinkedIn](https://www.linkedin.com/in/bertrand-bichat/?locale=en_US)
 
 [Portfolio](https://bertrand-bichat.github.io/)
-
-
+<br />
+<br />
 ## 🌐 Languages ​​and Frameworks
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
